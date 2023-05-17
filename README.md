@@ -1,4 +1,7 @@
 ### Hello there 👋! 
+
+<div class="card-image"><img src="https://media.tenor.com/vX-Qz2O8losAAAAM/boba-fett-star-wars.gif" alt=""></div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemontone/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henriquemontone19@gmail.com)
 
@@ -18,5 +21,6 @@ Prazer! Me chamo Henrique Montone, nasci dia 12/11/2002 e estou cursando engenha
 
 Sou um hacker apaixonado por explorar falhas e vulnerabilidades e aprender como se defender delas. Estou sempre disposto a aprender algo novo.
 Trabalhei na área de segurança da informação de instituição financeira durante 13 meses. Estudo e pratico por meio de CTF´s, bug bounty e cursos extracurriculares. Utilizo Kali Linux para efetuar os ataques e shell script para automações de ferramentas. Uso Python ou C++ ou GO para códigos.
+
 
 
