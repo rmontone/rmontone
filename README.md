@@ -10,7 +10,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://cursos.alura.com.br/user/rmontone19/course/windows-prompt-utilizando-cmd/certificate)
+[![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://cursos.alura.com.br/certificate/dbaf7a4d-f8ca-4864-b75d-a074b815c45c)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmontone)](https://github.com/rmontone/github-readme-stats)
 
