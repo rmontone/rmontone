@@ -3,7 +3,7 @@
 <div class="card-image"><img src="https://media.tenor.com/vX-Qz2O8losAAAAM/boba-fett-star-wars.gif" alt=""></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemontone/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henriquemontone19@gmail.com)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmontone&show_icons=true&theme=dark)
 
