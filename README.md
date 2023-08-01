@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemontone/)
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmontone&show_icons=true&theme=dark) -->
+<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmontone&show_icons=true&theme=dark) >
 
 ### Tecnologias
 [![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -15,7 +15,7 @@
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://cursos.alura.com.br/certificate/dbaf7a4d-f8ca-4864-b75d-a074b815c45c)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmontone&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmontone&layout=donut)](https://github.com/anuraghazra/github-readme-stats) >
 
 Prazer! Me chamo Henrique Montone, tenho 20 anos e estou cursando engenharia da computação na FIAP com previsão de termino para 2025.
 
