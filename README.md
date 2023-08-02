@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmontone&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
-Prazer! Me chamo Henrique Montone, tenho 20 anos e estou cursando engenharia da computação na FIAP com previsão de termino para 2025.
+Prazer! Me chamo Henrique Montone, tenho 20 anos e estou cursando engenharia da computação na FIAP com previsão de termino para 2025..
 
 Sou um hacker apaixonado por explorar falhas e vulnerabilidades e aprender como se defender delas. Estou sempre disposto a aprender algo novo.
 Trabalhei na área de segurança da informação de instituição financeira durante 13 meses. Estudo e pratico por meio de CTF´s, bug bounty e cursos extracurriculares. Utilizo Kali Linux para efetuar os ataques e shell script para automações de ferramentas. Uso Python ou C++ ou GO para códigos.
