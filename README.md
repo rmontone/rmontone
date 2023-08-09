@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquemontone/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmontone&show_icons=true&theme=dark) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmontone&show_icons=true&theme=dark) -->
 
 ### Tecnologias
 [![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
